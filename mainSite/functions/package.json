@@ -1,0 +1,33 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "engines": {
+    "node": "8"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^7.14.2",
+    "firebase-admin": "^8.6.0",
+    "firebase-functions": "^3.3.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "prop-types": "^15.7.2",
+    "pure-react-carousel": "^1.27.0",
+    "ra-data-json-server": "^3.6.0",
+    "react": "^16.13.1",
+    "react-admin": "^3.6.0",
+    "react-admin-firebase": "^3.1.24",
+    "react-burger-menu": "^2.6.13",
+    "react-dom": "^16.13.1",
+    "react-firebaseui": "^4.1.0",
+    "react-icons": "^3.9.0",
+    "react-image-lightbox": "^5.1.1",
+    "react-lazy-load-image-component": "^1.4.3",
+    "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "firebase-functions-test": "^0.1.6"
+  },
+  "private": true
+}

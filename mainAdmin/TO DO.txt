@@ -1,0 +1,21 @@
+*sem botao de excluir no celular para post ok
+
+*arrumar textos do site ok?
+
+*mensagem aparecendo abaixo dos input ???
+
+*não exclui imagem na hora ao clicar ??
+
+*arrumar imagens removidas aparecendo ok?
+
+*sem botao de excluir no celular para GALERIA ok
+
+*clean the coding trash
+
+
+
+
+
+
+
+
